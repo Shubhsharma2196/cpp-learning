@@ -14,5 +14,5 @@ A simple console application that calculates the hypotenuse of a right-angled tr
    g++ "Hypotenuse Calculator project.cpp" -o calculator
    ```
 3. Run the executable:
-   * **Windows:** \calculator.exe``
-   * **Mac/Linux:** \./calculator``
+   * **Windows:** \calculator.exe
+   * **Mac/Linux:** \./calculator
